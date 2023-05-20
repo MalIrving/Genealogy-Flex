@@ -105,6 +105,10 @@ ul.nav-main-menu {
   height: 6.5rem;
 }
 
+.genealogy-branch-content-navigation {
+  margin-bottom: 2rem;
+}
+
 .genealogy-branch-content h3 {
   font-style: italic;
   margin-bottom: 1rem;
