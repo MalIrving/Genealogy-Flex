@@ -8,8 +8,8 @@ body.genealogy-main {
   background-image: url("../images/IrvingTarten.gif");
   display: flex;
   flex-direction: column;
-  width: 90vw;
   margin: 0 auto;
+  width: 90vw;
 }
 
 nav.nav-main a {
@@ -84,9 +84,10 @@ ul.nav-main-menu {
 .genealogy-content ul a:active {
   color: #e03a3e;
 }
+
 /* ------------------ genealogy branch --------------*/
 .genealogy-branch {
-  background-image: url("images/IrvingTarten.gif");
+  background-image: url("../images/IrvingTarten.gif");
 }
 
 .branch-page {
@@ -174,7 +175,7 @@ td {
 }
 
 .personal_home_page {
-  background-color: rgb(226, 222, 181);
+  background-color: #ccc;
   background-image: none;
 }
 
