@@ -6,11 +6,12 @@
 nav {
   background: #222;
   padding: 5px 20px;
-  display: flex;
-  justify-content: space-between;
 }
+
 ul {
   list-style: none;
+  display: flex;
+  justify-content: space-between;
 }
 a {
   color: white;
@@ -27,6 +28,7 @@ a:hover {
 .menu li a {
   display: block;
 }
+
 /* Mobile Menu */
 .menu {
   display: flex;
@@ -70,13 +72,13 @@ a:hover {
 }
 
 /* Tablet Menu */
-@media all and (min-width: 468px) {
+/* @media all and (min-width: 468px) {
   .menu {
     justify-content: center;
   }
   .toggle {
   }
-}
+} */
 
 /* Desktop */
 @media all and (min-width: 768px) {

@@ -1,9 +1,15 @@
+.about_me {
+  width: 90vw;
+  margin: 1rem auto;
+  background-color: #ccc;
+}
+
 h1 {
   padding: 2rem 0;
   color: blueviolet;
 }
 p {
-  padding: 2rem;
+  padding: 1rem;
 }
 
 footer {
@@ -14,6 +20,6 @@ footer p {
   text-align: center;
 }
 
-a:link {
+/* a:link {
   color: black;
-}
+} */
