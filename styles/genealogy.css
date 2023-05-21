@@ -11,6 +11,9 @@ body.genealogy-main {
   margin: 0 auto;
   width: 90vw;
 }
+.nav-main {
+  margin-top: 2rem;
+}
 
 nav.nav-main a {
   color: white;
