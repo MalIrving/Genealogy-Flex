@@ -1,0 +1,36 @@
+.favourite_links {
+  width: 90vw;
+  margin: 1rem auto;
+  background-color: #ccc;
+}
+
+footer {
+  background-color: aquamarine;
+}
+h3 {
+  margin: 1rem 0;
+}
+
+footer {
+  margin-top: 2rem;
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p a {
+  color: black;
+}
+
+footer p {
+  font-size: 1.2rem;
+}
+
+footer a:link {
+  color: black;
+}
+
+/* a:link {
+  color: black;
+} */
